@@ -236,42 +236,6 @@ public class KillServiceImpl implements KillService{
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     /**
      * 通用的方法-记录用户秒杀成功后生成的订单-并进行异步邮件消息的通知
      * @param kill
@@ -489,43 +453,3 @@ public class KillServiceImpl implements KillService{
 //        return result;
 //    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
